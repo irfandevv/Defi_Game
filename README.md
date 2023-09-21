@@ -1,5 +1,5 @@
 # Defi_Game
-# Blockchain Research
+# Blockchain
 
 What is Blockchain?
 Blockchain is a digital ledger that records transactions across a network of computers, ensuring transparency, security, and trust without the need for a central authority.
