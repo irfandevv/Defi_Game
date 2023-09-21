@@ -79,13 +79,3 @@ Handle Transactions Including Gas Fees |
 | Scaling Solutions | Evaluate Layer-2 Solutions for Scalability and Cost Efficiency |
 | Community Engagement | Foster Community Feedback and Involvement in Blockchain Features |
 
-Blockchain Tools
-
-—> Ethereum
-—> Geth
-—> IPFS
-—> Solidity, Smart Contracts
-—> Infura
-—> ChainLink, Oracle
-—> Web3.js
-—> OpenSea
